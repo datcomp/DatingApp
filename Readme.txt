@@ -45,3 +45,8 @@ git:
 versteckter Ordner .git löschen
 
 Terminal: im RootOrdner : git init
+
+copy this command
+git remote add origin https://github.com/datcomp/DatingApp.git
+
+and paste it in Terminal
